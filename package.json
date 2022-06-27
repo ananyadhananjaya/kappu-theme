@@ -1,6 +1,6 @@
 {
-    "name": "ax-dark-theme",
-    "displayName": "AX Dark Theme",
+    "name": "kappu-theme",
+    "displayName": "Kappu Dark Theme",
     "description": "A dark theme for VS Code",
     "version": "0.0.1",
     "engines": {
