@@ -1,16 +1,22 @@
 {
 	"name": "Dark Theme",
 	"colors": {
-		"editor.background": "#1e1e1e",
+		"editor.background": "#111111",
 		"editor.foreground": "#eeffff",
 		"activityBarBadge.background": "#007acc",
 		"sideBarTitle.foreground": "#9c9c9c",
 		"window.activeBorder": "#323232",
 		"activityBar.background": "#0f0f0f",
-		"activityBar.foreground": "#6d6d6d",
-		"badge.foreground": "#89ceff",
+		"activityBar.foreground": "#7a7a7a",
+		"badge.foreground": "#cfcfcf",
 		"foreground": "#7e7e7e",
-		"sideBar.background": "#1d1d1d"
+		"sideBar.background":"#0b0b0b",
+		"editorBracketHighlight.foreground1": "#ff3333",
+		"terminal.foreground": "#e2e2e2ee",
+        "terminal.ansiBrightYellow": "#f5f500",
+		"terminal.background": "#191919",
+		"panel.background": "#191919",
+		"statusBar.background": "#191919",
 	},
 	"tokenColors": [
 		{
@@ -21,7 +27,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#8a8a8a"
 			}
 		},
 		{
@@ -31,7 +37,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#92fda4"
 			}
 		},
 		{
@@ -61,7 +67,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#FB6C90"
 			}
 		},
 		{
@@ -92,7 +98,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#ffb005f3"
 			}
 		},
 		{
@@ -105,7 +111,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#6dbbff"
 			}
 		},
 		{
@@ -155,7 +161,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#87f0f0"
 			}
 		},
 		{
@@ -171,7 +177,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#e69e18"
 			}
 		},
 		{
@@ -255,7 +261,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FFCB6B"
+				"foreground": "#d99c2b"
 			}
 		},
 		{
