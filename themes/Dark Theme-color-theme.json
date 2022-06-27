@@ -1,10 +1,16 @@
 {
 	"name": "Dark Theme",
 	"colors": {
-		"editor.background": "#263238",
+		"editor.background": "#1e1e1e",
 		"editor.foreground": "#eeffff",
 		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"sideBarTitle.foreground": "#9c9c9c",
+		"window.activeBorder": "#323232",
+		"activityBar.background": "#0f0f0f",
+		"activityBar.foreground": "#6d6d6d",
+		"badge.foreground": "#89ceff",
+		"foreground": "#7e7e7e",
+		"sideBar.background": "#1d1d1d"
 	},
 	"tokenColors": [
 		{
