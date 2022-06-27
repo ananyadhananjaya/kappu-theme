@@ -1,0 +1,21 @@
+{
+    "name": "ax-dark-theme",
+    "displayName": "AX Dark Theme",
+    "description": "A dark theme for VS Code",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark Theme-color-theme.json"
+            }
+        ]
+    }
+}
