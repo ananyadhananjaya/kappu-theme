@@ -5,9 +5,11 @@
   "version": "0.0.1",
   "keywords": [
     "theme",
-    "dark"
+    "dark",
+    "dark theme"
   ],
   "license": "MIT",
+  "publisher": "AnanyaDhananjaya",
   "repository": {
     "type": "git",
     "url": "https://github.com/ananyadhananjaya/kappu-theme.git"
