@@ -2,7 +2,7 @@
   "name": "kappu-theme",
   "displayName": "Kappu Dark Theme",
   "description": "A dark theme for VS Code",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "keywords": [
     "theme",
     "dark",
