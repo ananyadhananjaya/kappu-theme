@@ -1,4 +1,5 @@
-# Kappu theme for VS Code
+<h1 align="center">Kappu theme for VS Code </h1>
 
 
-![Draft-01VSCode_Extension](https://user-images.githubusercontent.com/43600997/176344071-c5f96d33-fbfb-4fcc-8664-7177df00fcfd.jpg)
+
+![VSCode-Extension 1](https://user-images.githubusercontent.com/43600997/176344837-2b9ace99-df0b-4298-bfc8-dc798052ef5d.png)
