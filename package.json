@@ -2,12 +2,16 @@
   "name": "kappu-theme",
   "displayName": "Kappu Dark Theme",
   "description": "A dark theme for VS Code",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "keywords": [
     "theme",
     "dark",
     "dark theme"
   ],
+  "scripts": {
+    "package": "vsce package",
+    "publish": "vsce publish"
+  },
   "license": "MIT",
   "publisher": "AnanyaDhananjaya",
   "repository": {
