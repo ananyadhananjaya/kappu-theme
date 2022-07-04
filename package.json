@@ -2,7 +2,7 @@
   "name": "kappu-theme",
   "displayName": "Kappu Dark Theme",
   "description": "A dark theme for VS Code",
-  "version": "0.3.0",
+  "version": "1.0.0",
   "keywords": [
     "theme",
     "dark",
@@ -27,9 +27,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Dark Theme",
+        "label": "Black-Dark Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/Dark Theme-color-theme.json"
+      },
+      {
+        "label": "Blue-Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/blue-color-theme.json"
       }
     ]
   },
