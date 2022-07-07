@@ -8,11 +8,11 @@
     "editor.background": "#001524",
     "editor.foreground": "#d7f9f9",
     "editorBracketHighlight.foreground1": "#b3b81d",
-    "editorBracketHighlight.foreground2": "#ff0000",
-    "editorBracketHighlight.foreground3": "#15fe11",
-    "editorBracketHighlight.foreground4": "#f01cff",
-    "editorBracketHighlight.foreground5": "#ac69ff",
-    "editorBracketHighlight.foreground6": "#ffb452",
+    "editorBracketHighlight.foreground2": "#f96363",
+    "editorBracketHighlight.foreground3": "#7afb78",
+    "editorBracketHighlight.foreground4": "#f56eff",
+    "editorBracketHighlight.foreground5": "#b882fa",
+    "editorBracketHighlight.foreground6": "#f9be70",
     "foreground": "#ffffff",
     "input.background": "#344252",
     "input.foreground": "#e7e7e7",
@@ -43,14 +43,14 @@
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#C4DDFF"
+        "foreground": "#395070"
       }
     },
     {
       "name": "Variables",
       "scope": ["variable", "string constant.other.placeholder"],
       "settings": {
-        "foreground": "#F24A72"
+        "foreground": "#facfcf"
       }
     },
     {
@@ -71,7 +71,7 @@
       "name": "Keyword, Storage",
       "scope": ["keyword", "storage.type", "storage.modifier"],
       "settings": {
-        "foreground": "#85F4FF"
+        "foreground": "#e47af5"
       }
     },
     {
@@ -91,7 +91,7 @@
         "keyword.other.substitution"
       ],
       "settings": {
-        "foreground": "#73ff00"
+        "foreground": "#e146f9"
       }
     },
     {
@@ -102,7 +102,7 @@
         "markup.deleted.git_gutter"
       ],
       "settings": {
-        "foreground": "#fb4545"
+        "foreground": "#79e2ff"
       }
     },
     {
@@ -115,14 +115,14 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "foreground": "#59ff90"
+        "foreground": "#8fdc37"
       }
     },
     {
       "name": "Block Level Variables",
       "scope": ["meta.block variable.other"],
       "settings": {
-        "foreground": "#79adf2"
+        "foreground": "#a6c6ef"
       }
     },
     {
@@ -145,7 +145,7 @@
         "keyword.other"
       ],
       "settings": {
-        "foreground": "#c700f9"
+        "foreground": "#d6a681"
       }
     },
     {
@@ -160,7 +160,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#d8e316"
+        "foreground": "#dde45d"
       }
     },
     {
