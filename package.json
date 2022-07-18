@@ -27,14 +27,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Blue-Dark Theme",
-        "uiTheme": "vs-dark",
-        "path": "./themes/blue-color-theme.json"
-      },
-      {
         "label": "Black-Dark Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Dark Theme-color-theme.json"
+        "path": "./themes/black-dark-theme.json"
+      },
+      {
+        "label": "Blue-Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/blue-dark-theme.json"
       }
     ]
   },
