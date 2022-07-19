@@ -15,3 +15,6 @@ All notable changes to the "ax-dark-theme" extension will be documented in this 
 
 ### Black Dark Theme
 - Major changes in theme palette
+
+## [2.0.1] - 2022-07-19
+- Update screenshots
