@@ -1,7 +1,7 @@
 <h1 align="center">Kappu theme for VS Code </h1>
 
 
-![Dark_Black](https://user-images.githubusercontent.com/43600997/177200160-c471f860-80f6-4849-aa2e-19f1dfc4f04d.PNG)
+![black_theme_figma_2 0 1](https://user-images.githubusercontent.com/43600997/179663278-ef5d9ad1-317e-4591-9b96-c9eb5643a429.png)
 
 ____
 
